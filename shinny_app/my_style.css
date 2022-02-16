@@ -1,0 +1,20 @@
+body{
+  background-color: #D5D8DC;
+}
+
+.font{
+  font-size: 18pt;
+}
+.result{
+  color: red;
+  font-weight: bold;
+}
+
+.acc{
+  padding: 15px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #2b542c;
+}
